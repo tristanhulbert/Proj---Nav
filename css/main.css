@@ -3,3 +3,31 @@
 ul {
     list-style-type: none;
 }
+body {
+		background-image: url("bg.jpg");
+		background-position: center;
+}
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+}
+
+header {
+	opacity: 0.34;	
+	background: #000000;
+}
+
+nav a {
+	color: #fff;
+}
+
+h1 {
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+}
+
+li {
+	display: inline;
+	float: right;
+}
